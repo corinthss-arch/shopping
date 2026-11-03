@@ -1,0 +1,9 @@
+# 라이트/다크를 따로 지정해야 시스템 테마(라이트/다크) 전환이 유지된다.
+[theme.light]
+primaryColor = "#2E7D5B"
+
+[theme.dark]
+primaryColor = "#4CB38A"
+
+[browser]
+gatherUsageStats = false
